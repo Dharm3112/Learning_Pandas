@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-7.py of (Pandas Dataframe Attribute And Methods)&#10;&#10;With Some Updates">
-      <change afterPath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-8.py" afterDir="false" />
+    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Created A Folder Named (Pandas Join DataFrame)&#10;And in THat Folder Added File Named (Demo-1.py)">
+      <change beforePath="$PROJECT_DIR$/Pandas Join DataFrame/Demo-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas Join DataFrame/Demo-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1765083885141" duration="798000" />
       <workItem from="1765084704606" duration="2190000" />
       <workItem from="1765175126054" duration="663000" />
-      <workItem from="1765192472981" duration="1684000" />
+      <workItem from="1765192472981" duration="1984000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit In Pandas Repo Started Learning Pandas">
       <option name="closed" value="true" />
@@ -246,7 +246,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765194081147</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Done Demo-8.py of (Pandas Dataframe Attribute And Methods)">
+      <option name="closed" value="true" />
+      <created>1765194188164</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765194188164</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Created A Folder Named (Pandas Join DataFrame)&#10;And in THat Folder Added File Named (Demo-1.py)">
+      <option name="closed" value="true" />
+      <created>1765194363371</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765194363371</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,14 +298,16 @@
     <MESSAGE value="Done Demo-6.py of (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Done Demo-7.py of (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Done Demo-7.py of (Pandas Dataframe Attribute And Methods)&#10;&#10;With Some Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-7.py of (Pandas Dataframe Attribute And Methods)&#10;&#10;With Some Updates" />
+    <MESSAGE value="Done Demo-8.py of (Pandas Dataframe Attribute And Methods)" />
+    <MESSAGE value="Created A Folder Named (Pandas Join DataFrame)&#10;And in THat Folder Added File Named (Demo-1.py)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created A Folder Named (Pandas Join DataFrame)&#10;And in THat Folder Added File Named (Demo-1.py)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Pandas$main.coverage" NAME="main Coverage Results" MODIFIED="1765084719614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning_Pandas$Pandas_DataFrame_Demo_2.coverage" NAME="Pandas_DataFrame_Demo-2 Coverage Results" MODIFIED="1765086255108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas DataFrame" />
     <SUITE FILE_PATH="coverage/Learning_Pandas$Demo_7.coverage" NAME="Demo-7 Coverage Results" MODIFIED="1765194061537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods" />
-    <SUITE FILE_PATH="coverage/Learning_Pandas$Demo_1.coverage" NAME="Demo-1 Coverage Results" MODIFIED="1765193233925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods" />
     <SUITE FILE_PATH="coverage/Learning_Pandas$Demo_3.coverage" NAME="Demo-3 Coverage Results" MODIFIED="1765193501248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods" />
+    <SUITE FILE_PATH="coverage/Learning_Pandas$Demo_1.coverage" NAME="Demo-1 Coverage Results" MODIFIED="1765194462297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas Join DataFrame" />
     <SUITE FILE_PATH="coverage/Learning_Pandas$Demo_6.coverage" NAME="Demo-6 Coverage Results" MODIFIED="1765193943752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods" />
     <SUITE FILE_PATH="coverage/Learning_Pandas$Pandas_DataFrame_Demo_5.coverage" NAME="Pandas_DataFrame_Demo-5 Coverage Results" MODIFIED="1765086847990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas DataFrame" />
     <SUITE FILE_PATH="coverage/Learning_Pandas$Pandas_DataFrame_Demo_1.coverage" NAME="Pandas_DataFrame_Demo-1 Coverage Results" MODIFIED="1765085681375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas DataFrame" />
