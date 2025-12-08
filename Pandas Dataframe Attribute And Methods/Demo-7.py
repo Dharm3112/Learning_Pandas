@@ -12,4 +12,4 @@ df = pd.DataFrame(data, index = ['RowA', 'RowB', 'RowC', 'RowD', 'RowE', 'RowF',
 
 print("Student Records\n\n", df)
 
-print("\nFirst Five Rows : \n", df.head())
+print("\nFirst Three Rows : \n", df.head(3))
