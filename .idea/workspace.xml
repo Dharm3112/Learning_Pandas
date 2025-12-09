@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-1 Of (Pandas Concat Data Frame)" />
+    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-1 Of (Pandas Series)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +99,7 @@
       <workItem from="1765084704606" duration="2190000" />
       <workItem from="1765175126054" duration="663000" />
       <workItem from="1765192472981" duration="2065000" />
-      <workItem from="1765281392145" duration="635000" />
+      <workItem from="1765281392145" duration="940000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit In Pandas Repo Started Learning Pandas">
       <option name="closed" value="true" />
@@ -285,7 +285,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765282026132</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Created A Folder Named (Pandas Series)">
+      <option name="closed" value="true" />
+      <created>1765282141161</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282141161</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Created Empty .py Files Named Demo-1,2,3,4">
+      <option name="closed" value="true" />
+      <created>1765282281127</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282281127</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Done Demo-1 Of (Pandas Series)">
+      <option name="closed" value="true" />
+      <created>1765282334943</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282334943</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +327,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Commit In Pandas Repo Started Learning Pandas" />
     <MESSAGE value="Added 5 Demo Files" />
     <MESSAGE value="Aoved All This Into One Folder" />
     <MESSAGE value="Wrrtten First Program Of Pandas On Demo-1 File" />
@@ -326,7 +349,10 @@
     <MESSAGE value="Done Demo-1.py of (Pandas Join DataFrame)" />
     <MESSAGE value="Renamed All Folders Number Wise" />
     <MESSAGE value="Done Demo-1 Of (Pandas Concat Data Frame)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-1 Of (Pandas Concat Data Frame)" />
+    <MESSAGE value="Created A Folder Named (Pandas Series)" />
+    <MESSAGE value="Created Empty .py Files Named Demo-1,2,3,4" />
+    <MESSAGE value="Done Demo-1 Of (Pandas Series)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-1 Of (Pandas Series)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Pandas$main.coverage" NAME="main Coverage Results" MODIFIED="1765084719614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
