@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-1 Of (Pandas Series)" />
+    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-4.py Of (Pandas Series)">
+      <change afterPath="$PROJECT_DIR$/06_Pandas Series Attribute Methods/Demo-1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +101,7 @@
       <workItem from="1765084704606" duration="2190000" />
       <workItem from="1765175126054" duration="663000" />
       <workItem from="1765192472981" duration="2065000" />
-      <workItem from="1765281392145" duration="940000" />
+      <workItem from="1765281392145" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit In Pandas Repo Started Learning Pandas">
       <option name="closed" value="true" />
@@ -309,7 +311,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765282334943</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Done Demo-2.py Of (Pandas Series)">
+      <option name="closed" value="true" />
+      <created>1765282367250</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282367250</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Done Demo-3.py Of (Pandas Series)">
+      <option name="closed" value="true" />
+      <created>1765282397786</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282397786</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Done Demo-4.py Of (Pandas Series)">
+      <option name="closed" value="true" />
+      <created>1765282423284</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282423284</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,9 +353,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added 5 Demo Files" />
-    <MESSAGE value="Aoved All This Into One Folder" />
-    <MESSAGE value="Wrrtten First Program Of Pandas On Demo-1 File" />
     <MESSAGE value="Done With Demo-2 Of Dataframe" />
     <MESSAGE value="Done With Demo-3 Of Dataframe" />
     <MESSAGE value="Done With Demo-4 Of Dataframe" />
@@ -352,7 +375,10 @@
     <MESSAGE value="Created A Folder Named (Pandas Series)" />
     <MESSAGE value="Created Empty .py Files Named Demo-1,2,3,4" />
     <MESSAGE value="Done Demo-1 Of (Pandas Series)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-1 Of (Pandas Series)" />
+    <MESSAGE value="Done Demo-2.py Of (Pandas Series)" />
+    <MESSAGE value="Done Demo-3.py Of (Pandas Series)" />
+    <MESSAGE value="Done Demo-4.py Of (Pandas Series)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-4.py Of (Pandas Series)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Pandas$main.coverage" NAME="main Coverage Results" MODIFIED="1765084719614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
