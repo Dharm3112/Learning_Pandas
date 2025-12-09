@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-4.py Of (Pandas Series)">
-      <change afterPath="$PROJECT_DIR$/06_Pandas Series Attribute Methods/Demo-1.py" afterDir="false" />
-    </list>
+    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-3.py Of (Pandas Series Attribute Methods)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +99,7 @@
       <workItem from="1765084704606" duration="2190000" />
       <workItem from="1765175126054" duration="663000" />
       <workItem from="1765192472981" duration="2065000" />
-      <workItem from="1765281392145" duration="1245000" />
+      <workItem from="1765281392145" duration="1621000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit In Pandas Repo Started Learning Pandas">
       <option name="closed" value="true" />
@@ -335,7 +333,47 @@
       <option name="project" value="LOCAL" />
       <updated>1765282423284</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Created A Folder Named (Pandas Series Attribute Methods)">
+      <option name="closed" value="true" />
+      <created>1765282655401</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282655401</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Created 9 .py Files Named Demo-1,2,3,4,5,6,7,8,9">
+      <option name="closed" value="true" />
+      <created>1765282789796</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282789796</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Done Demo-1.py Of (Pandas Series Attribute Methods)">
+      <option name="closed" value="true" />
+      <created>1765282844300</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282844300</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Done Demo-2.py Of (Pandas Series Attribute Methods)">
+      <option name="closed" value="true" />
+      <created>1765282874958</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282874958</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Done Demo-3.py Of (Pandas Series Attribute Methods)">
+      <option name="closed" value="true" />
+      <created>1765283027629</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1765283027629</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,11 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done With Demo-2 Of Dataframe" />
-    <MESSAGE value="Done With Demo-3 Of Dataframe" />
-    <MESSAGE value="Done With Demo-4 Of Dataframe" />
-    <MESSAGE value="Done With Demo-5 Of Dataframe" />
-    <MESSAGE value="Created A Folder For Practicing Pandas Dataframe Attribute And Methods" />
     <MESSAGE value="Added 7 Demo Files FOr Practicing (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Done Demo-1 of (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Done Demo-2.py of (Pandas Dataframe Attribute And Methods)" />
@@ -378,7 +411,12 @@
     <MESSAGE value="Done Demo-2.py Of (Pandas Series)" />
     <MESSAGE value="Done Demo-3.py Of (Pandas Series)" />
     <MESSAGE value="Done Demo-4.py Of (Pandas Series)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-4.py Of (Pandas Series)" />
+    <MESSAGE value="Created A Folder Named (Pandas Series Attribute Methods)" />
+    <MESSAGE value="Created 9 .py Files Named Demo-1,2,3,4,5,6,7,8,9" />
+    <MESSAGE value="Done Demo-1.py Of (Pandas Series Attribute Methods)" />
+    <MESSAGE value="Done Demo-2.py Of (Pandas Series Attribute Methods)" />
+    <MESSAGE value="Done Demo-3.py Of (Pandas Series Attribute Methods)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-3.py Of (Pandas Series Attribute Methods)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Pandas$main.coverage" NAME="main Coverage Results" MODIFIED="1765084719614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
