@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-1.py of (Pandas Join DataFrame)">
-      <change afterPath="$PROJECT_DIR$/04_Pandas Concat Data Frame/Demo-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas DataFrame/Pandas_DataFrame_Demo-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Pandas DataFrame/Pandas_DataFrame_Demo-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas DataFrame/Pandas_DataFrame_Demo-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Pandas DataFrame/Pandas_DataFrame_Demo-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas DataFrame/Pandas_DataFrame_Demo-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Pandas DataFrame/Pandas_DataFrame_Demo-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas DataFrame/Pandas_DataFrame_Demo-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Pandas DataFrame/Pandas_DataFrame_Demo-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas DataFrame/Pandas_DataFrame_Demo-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Pandas DataFrame/Pandas_DataFrame_Demo-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Dataframe Attribute And Methods/Demo-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Pandas Dataframe Attribute And Methods/Demo-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas Join DataFrame/Demo-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Pandas Join DataFrame/Demo-1.py" afterDir="false" />
-    </list>
+    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-1 Of (Pandas Concat Data Frame)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +99,7 @@
       <workItem from="1765084704606" duration="2190000" />
       <workItem from="1765175126054" duration="663000" />
       <workItem from="1765192472981" duration="2065000" />
-      <workItem from="1765281392145" duration="327000" />
+      <workItem from="1765281392145" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit In Pandas Repo Started Learning Pandas">
       <option name="closed" value="true" />
@@ -286,7 +269,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765194511326</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Renamed All Folders Number Wise">
+      <option name="closed" value="true" />
+      <created>1765281777431</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765281777431</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Done Demo-1 Of (Pandas Concat Data Frame)">
+      <option name="closed" value="true" />
+      <created>1765282026132</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765282026132</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +324,9 @@
     <MESSAGE value="Done Demo-8.py of (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Created A Folder Named (Pandas Join DataFrame)&#10;And in THat Folder Added File Named (Demo-1.py)" />
     <MESSAGE value="Done Demo-1.py of (Pandas Join DataFrame)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-1.py of (Pandas Join DataFrame)" />
+    <MESSAGE value="Renamed All Folders Number Wise" />
+    <MESSAGE value="Done Demo-1 Of (Pandas Concat Data Frame)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-1 Of (Pandas Concat Data Frame)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Pandas$main.coverage" NAME="main Coverage Results" MODIFIED="1765084719614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
