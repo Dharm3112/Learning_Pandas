@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-8.py Of (Pandas Series Attribute Methods)">
-      <change beforePath="$PROJECT_DIR$/06_Pandas Series Attribute Methods/Demo-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Pandas Series Attribute Methods/Demo-9.py" afterDir="false" />
+    <list default="true" id="feeae1fd-5a4d-4e9e-bb52-f561114c5902" name="Changes" comment="Done Demo-9.py Of (Pandas Series Attribute Methods)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,9 @@
       <workItem from="1765084704606" duration="2190000" />
       <workItem from="1765175126054" duration="663000" />
       <workItem from="1765192472981" duration="2065000" />
-      <workItem from="1765281392145" duration="2224000" />
+      <workItem from="1765281392145" duration="3274000" />
+      <workItem from="1765346846475" duration="2000" />
+      <workItem from="1765346929181" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit In Pandas Repo Started Learning Pandas">
       <option name="closed" value="true" />
@@ -415,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765283611906</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Done Demo-9.py Of (Pandas Series Attribute Methods)">
+      <option name="closed" value="true" />
+      <created>1765283702546</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1765283702546</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +443,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done Demo-5.py of (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Done Demo-6.py of (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Done Demo-7.py of (Pandas Dataframe Attribute And Methods)" />
     <MESSAGE value="Done Demo-7.py of (Pandas Dataframe Attribute And Methods)&#10;&#10;With Some Updates" />
@@ -458,7 +467,8 @@
     <MESSAGE value="Done Demo-6.py Of (Pandas Series Attribute Methods)" />
     <MESSAGE value="Done Demo-7.py Of (Pandas Series Attribute Methods)" />
     <MESSAGE value="Done Demo-8.py Of (Pandas Series Attribute Methods)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-8.py Of (Pandas Series Attribute Methods)" />
+    <MESSAGE value="Done Demo-9.py Of (Pandas Series Attribute Methods)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Demo-9.py Of (Pandas Series Attribute Methods)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Pandas$main.coverage" NAME="main Coverage Results" MODIFIED="1765084719614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
