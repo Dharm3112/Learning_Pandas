@@ -80,4 +80,4 @@ python "01_Pandas DataFrame/Pandas_DataFrame_Demo-1.py"
 
 -----
 
-*Created by [Dharm3112](https://www.google.com/search?q=https://github.com/Dharm3112)*
+*Created by [Dharm Patel](https://github.com/Dharm3112)*
