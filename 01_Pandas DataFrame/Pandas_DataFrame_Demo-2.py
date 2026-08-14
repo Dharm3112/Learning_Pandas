@@ -1,7 +1,6 @@
 import pandas as pd
 
 # Dataset
-
 data = {
     'Student': ["Amit", "John", "Jacob", "David", "Steve", "Ramesh", "Suresh", ],
     'Rank': [1, 2, 3, 4, 5, 6, 7],
