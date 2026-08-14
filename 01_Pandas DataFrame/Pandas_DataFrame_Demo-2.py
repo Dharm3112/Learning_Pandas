@@ -11,5 +11,6 @@ df = pd.DataFrame(data, index = ['RowA', 'RowB', 'RowC', 'RowD', 'RowE', 'RowF',
 
 print("Student Records\n\n", df)
 
+
 # Access the value in student column corresponding to RowA label
 print("\nValue = ", df.loc['RowA', 'Student'])
